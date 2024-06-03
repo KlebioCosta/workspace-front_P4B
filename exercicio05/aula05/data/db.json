@@ -1,0 +1,64 @@
+{
+  "alunos": [
+    {
+      "id": "1",
+      "nome": "Kariel Flunick",
+      "email": "kariel@gmail.com",
+      "curso": "Sistemas para Internet"
+    },
+    {
+      "id": "2",
+      "nome": "Yuopyoo Jy-haw",
+      "email": "yuopyoo@gmail.com",
+      "curso": "Astrologia"
+    },
+    {
+      "id": "dc46",
+      "nome": "tst",
+      "email": "test@email",
+      "curso": "tests"
+    },
+    {
+      "id": "fabf",
+      "nome": "tst2",
+      "email": "test@email",
+      "curso": "tests"
+    },
+    {
+      "id": "a6e5",
+      "nome": "5555",
+      "email": "555",
+      "curso": "555"
+    },
+    {
+      "id": "d579",
+      "nome": "777",
+      "email": "777",
+      "curso": "777"
+    },
+    {
+      "id": "c421",
+      "nome": "dd",
+      "email": "dd",
+      "curso": "dd"
+    },
+    {
+      "id": "862d",
+      "nome": "99",
+      "email": "99",
+      "curso": "99"
+    },
+    {
+      "id": "1abc",
+      "nome": "00",
+      "email": "00",
+      "curso": "00"
+    },
+    {
+      "id": "3b3a",
+      "nome": "9090",
+      "email": "9090",
+      "curso": "0909"
+    }
+  ]
+}

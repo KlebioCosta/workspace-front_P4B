@@ -1,0 +1,21 @@
+.centralizar{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+div.table{
+    border: '1px';
+    
+}
+
+thead{
+    font-style: italic;
+    color: blue;
+}
+
+tbody{
+    background-color: rgb(109, 109, 245);
+}
