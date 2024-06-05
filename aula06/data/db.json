@@ -1,0 +1,22 @@
+{
+  "noticias": [
+    {
+      "id": "1",
+      "titulo": "Viva Férias Uniesp",
+      "subtitulo": "Escolha um ou aproveite todos os cursos",
+      "texto": "Aproveitando esse tempo livre para aprimorar ou iniciar umma nova tecnologia? Pois garanta sua vaga, venha se aprimorar com os cursos de férias oferecidos pela Uniesp, com disciplinas e professores super capacitados e você pode aproveitar todos os beneficios vindo a nosso centro educacional ou aproveitar de onde você estiver com nossas aulas online sincronas e assincronas onde você aproveita de todas as maneiras. Então não passe ferias e sim viva ela "
+    },
+    {
+      "id": "2",
+      "titulo": "Estágios",
+      "subtitulo": "Programa de estagios todos os meses! Venha conferir",
+      "texto": "Aproveite os melhores beneficios de fazer parte de nossa faculdade, temos parceirias com as melhores empresas em todo o Brasil, todo mês temos novas oportunidades então venha sempre conferir pois o proximo já pode ser o seu! "
+    },
+    {
+      "id": "f477",
+      "titulo": "teste",
+      "subtitulo": "teste esse ",
+      "texto": "testando aqui \n"
+    }
+  ]
+}
